@@ -1,3 +1,4 @@
+-new
 # devops-netolog
 virus.txt
 kaspersky.exe
