@@ -1,9 +1,11 @@
 # devops-netolog
-virus.txt
-kaspersky.exe
+
 VSK-- 15120
-pochanin
+Pochanin
 Skirdachenko
 Zakhartsov
 Semerikov
 Sushkova 
+
+Time: 11:05
+Today 21.05.2022
